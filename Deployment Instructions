@@ -1,0 +1,4 @@
+Run db.sql in MySql
+Import project into IntelliJ
+Run class SpringbootJobsApiApplication
+Import Job Listings and Applicants.postman_collection
